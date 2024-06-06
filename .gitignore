@@ -1,0 +1,5 @@
+# Intellij GoLand
+.idea
+
+# Bin Files used for testing
+*.bin
