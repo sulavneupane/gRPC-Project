@@ -1,5 +1,5 @@
 # gRPC Project
-A sample project to understand gRPC (HTTP/2)
+A sample project to understand gRPC (HTTP/2) using Go language
 
 ## Install Proto Compiler (protoc) on MacOS
 ```shell
